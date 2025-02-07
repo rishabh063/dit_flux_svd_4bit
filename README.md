@@ -6,8 +6,10 @@ UnOfficial experimental implementation of **SVDQuant** for 4-bit weight & activa
 
 uses single value decomposition to counter outlier thus giving higher accuracy than naive int4
 
+paper link : https://arxiv.org/abs/2411.05007
 
-![SVDQuant Visual Comparison](https://hanlab.mit.edu/projects/svdquant/assets/teaser.jpg)
+
+![SVDQuant Visual Comparison]([https://hanlab.mit.edu/projects/svdquant/assets/teaser.jpg](https://github.com/mit-han-lab/deepcompressor/blob/main/assets/diffusion/svdquant/teaser.jpg))
 
 ## Key Features ✨
 - 🔥 **4-bit Weights & Activations** - First Diffusers implementation with full W4A4 support
