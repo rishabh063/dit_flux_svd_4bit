@@ -9,7 +9,6 @@ uses single value decomposition to counter outlier thus giving higher accuracy t
 paper link : https://arxiv.org/abs/2411.05007
 
 
-![SVDQuant Visual Comparison]([https://hanlab.mit.edu/projects/svdquant/assets/teaser.jpg](https://github.com/mit-han-lab/deepcompressor/blob/main/assets/diffusion/svdquant/teaser.jpg))
 
 ## Key Features ✨
 - 🔥 **4-bit Weights & Activations** - First Diffusers implementation with full W4A4 support
@@ -18,4 +17,4 @@ paper link : https://arxiv.org/abs/2411.05007
 - 🎨 **Preserved Visual Quality** - Outperforms W4A8 baselines on PixArt-Σ
 - 🔧 **Post-Training Quantization** - No retraining required
 
-As of Now only w4 is implemented in a quick ipynb notebook , 
+As of Now only w4 is implemented in a quick ipynb notebook , activation part is still pending
